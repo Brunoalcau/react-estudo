@@ -1,0 +1,22 @@
+{
+  "name": "schoolofnet",
+  "version": "1.0.0",
+  "description": "estudo de react ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "browser-sync": "^2.12.12",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-watch": "^4.3.6",
+    "require-dir": "^0.3.0"
+  }
+}
